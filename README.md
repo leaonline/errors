@@ -1,3 +1,3 @@
-# lea errors
+# leaonline:errors
 
-Some custom errors with custom translation. Usable on client and server.
+Better errors. Usable on client and server
